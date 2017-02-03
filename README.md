@@ -5,8 +5,8 @@ This is a collection of precompiled executable binaries for [MediaTek MT7621](ht
 
 File | SHA1 | Description
 -----|------|------------
-busybox-1.26.2-Vera-MediaTek_MT7621-k02a | 748e5f6c240c4c9d8eef5d60791abb9d361436f5 | BusyBox 1.26.2 executable binary file
-busybox-1.26.2-Vera-MediaTek_MT7621-k02a.config | 7cfaf293e5efe03fc352c299e14c95fe55a1c5bc | BusyBox 1.26.2 configuration file
+busybox-1.26.2-Vera-MediaTek_MT7621-k02a | `748e5f6c240c4c9d8eef5d60791abb9d361436f5` | BusyBox 1.26.2 executable binary file
+busybox-1.26.2-Vera-MediaTek_MT7621-k02a.config | `7cfaf293e5efe03fc352c299e14c95fe55a1c5bc` | BusyBox 1.26.2 configuration file
 
 
 *Disclaimer: Proper functionality is not guaranteed and no responsibility is taken. Installing and execution of the binaries is carried out at your own risk.*
